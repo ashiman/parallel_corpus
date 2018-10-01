@@ -1,0 +1,32 @@
+/html/head/title	ହିଙ୍ଗୁଳା ଠାକୁରାଣୀ | ଅନୁଗୋଳ ଜିଲ୍ଲା : ଓଡିଶା
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[4]	ପୌରପାଳିକା ଏବଂ ବିଜ୍ଞାପିତ ଅଂଚଳ ପରିଷଦ
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[4]/a	ପୌରପାଳିକା ଏବଂ ବିଜ୍ଞାପିତ ଅଂଚଳ ପରିଷଦ
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[6]	ଅନୁଗୋଳ ଜିଲ୍ଲା ଅଧୀନରେ ଥିବା ପୋଲିସ ଥାନା
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[6]/a	ଅନୁଗୋଳ ଜିଲ୍ଲା ଅଧୀନରେ ଥିବା ପୋଲିସ ଥାନା
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[7]	ଅନୁଗୋଳ ଜିଲ୍ଲା ରେ ଥିବା କୋର୍ଟ ସମୂହ
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[7]/a	ଅନୁଗୋଳ ଜିଲ୍ଲା ରେ ଥିବା କୋର୍ଟ ସମୂହ
+/html/body/header/div[3]/div[2]/nav/ul/li[3]/ul/li[2]	ଏସଟିଡି ଏବଂ ପିନ୍ କୋଡ୍
+/html/body/header/div[3]/div[2]/nav/ul/li[3]/ul/li[2]/a	ଏସଟିଡି ଏବଂ ପିନ୍ କୋଡ୍
+/html/body/header/div[3]/div[2]/nav/ul/li[3]/ul/li[5]	ଛାପା ଏବଂ ବୈଦ୍ୟୁତିକ ଗଣମାଧ୍ୟମ
+/html/body/header/div[3]/div[2]/nav/ul/li[3]/ul/li[5]/a	ଛାପା ଏବଂ ବୈଦ୍ୟୁତିକ ଗଣମାଧ୍ୟମ
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[1]	ଜିଲ୍ଲା ଗ୍ରାମ୍ୟ ଉନ୍ନୟନ ସଂସ୍ଥା
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[1]/a	ଜିଲ୍ଲା ଗ୍ରାମ୍ୟ ଉନ୍ନୟନ ସଂସ୍ଥା
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[4]	ଅଣୁ, କ୍ଷୁଦ୍ର ଓ ମଧ୍ୟମ ଉଦ୍ୟୋଗ
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[4]/a	ଅଣୁ, କ୍ଷୁଦ୍ର ଓ ମଧ୍ୟମ ଉଦ୍ୟୋଗ
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[5]	ଜିଲ୍ଲା ଯୋଜନା ଓ ପର୍ଯ୍ୟବେକ୍ଷଣ କାର୍ଯ୍ୟାଳୟ
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[5]/a	ଜିଲ୍ଲା ଯୋଜନା ଓ ପର୍ଯ୍ୟବେକ୍ଷଣ କାର୍ଯ୍ୟାଳୟ
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[6]	ରାସ୍ତା ଓ କୋଠାବାଡି ବିଭାଜନ
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[6]/a	ରାସ୍ତା ଓ କୋଠାବାଡି ବିଭାଜନ
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[7]	ଜିଲ୍ଲା କର୍ମ ନିୟୋଜନ ସଂସ୍ଥା
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[7]/a	ଜିଲ୍ଲା କର୍ମ ନିୟୋଜନ ସଂସ୍ଥା
+/html/body/header/div[3]/div[2]/nav/ul/li[5]/ul/li[3]	ଆବାସ ସ୍ଥଳ (ହୋଟେଲ/ ରିସୋର୍ଟ/ ଧର୍ମଶାଳା)
+/html/body/header/div[3]/div[2]/nav/ul/li[5]/ul/li[3]/a	ଆବାସ ସ୍ଥଳ (ହୋଟେଲ/ ରିସୋର୍ଟ/ ଧର୍ମଶାଳା)
+/html/body/section/div/div[3]/div/div[2]/p	ହିଙ୍ଗୁଳ। ଠାକୁରାଣୀଙ୍କର ଏହି ପବିତ୍ର ପୀଠ । ଶିମଡା ନଦୀର ତଟରେ ଏବଂ ତାଳଚେରର ପଶ୍ଚିମରେ ଅନୁଗୋଳ ଜିଲ୍ଲାରେ ଅବସ୍ତିତ । ଆସାମର ଜ୍ଵ।ଳାମୁଖୀ ନାମରେ ଏକ ତୀର୍ଥାସ୍ଥାନ ଅଛି । ଯେଉଁଠାରେ ଦେବୀ ହିଙ୍ଗୁଳ।, ହିଙ୍ଗୁଳେଈ ବା ହିଙ୍ଗୁଳାକ୍ଷୀ ନାମରେ ପୂଜା ପାଉଅଛି । ସେଥିପାଇଁ ତାଳଚେରର ଗୋପାଳପ୍ରସାଦ ଗ୍ରାମରେ ପୂଜା ପାଉଥିବା ଦେବୀଙ୍କର ନାମ ହିଙ୍ଗୁଳ। ଯାହା ଅଗ୍ନିର ଅନ୍ୟନ।ମ ଅଟେ । ଭ।ରତ ବାହାରେ କରାଚି ଓ କାବୁଲ ଠାରେ  ମଧ୍ୟ ଦେବୀ ହିଙ୍ଗୁଳ।ଙ୍କର ପୀଠ ମାନ ଅଛି । ଖୋର୍ଦ୍ଧାର ଖାଇପଦର ଭଳି ଏଠାରେ ମଧ୍ୟ ଦେବୀ ଉଭୟ ହିନ୍ଦୁ ଓ ମୁସଲମାନ ଙ୍କ ଦ୍ଵାରା ପୂଜା ପାଆନ୍ତି ।
+/html/body/section/div/div[3]/div/div[3]/div[2]/div[2]/p	ନିକଟତମ  ବିମାନ ବନ୍ଦର - ଭୁବେନେଶ୍ଵର ବିମାନ ବନ୍ଦର
+/html/body/section/div/div[3]/div/div[3]/div[3]/div[2]/p	ନିକଟତମ ରେଳ ଷ୍ଟେସନ   - ତାଳଚେର କିମ୍ବା ତାଳଚେର ରୋଡ ଷ୍ଟେସନ
+/html/body/section/div/div[3]/div/div[3]/div[4]/div[2]/p	ତାଳଚେର ଠାରୁ ୨୦  କି.ମି. ଦୂରତ୍ବରେ ଏହା ଅବସ୍ଥିତ ।
+/html/body/section/div/div[3]/div/div[3]/div[5]/div[2]/p	ଅନୁଗୋଳ/ତାଳଚେର ରେ ରହିବା ପାଇଁ  ବିଭିନ୍ନ ବର୍ଗ ର ହୋଟେଲ, ଧର୍ମଶାଳା ଉପଲବ୍ଧ ଅଛି
+/html/body/footer/div/div[2]/div[1]	Content Owned by District Administration
+/html/body/footer/div/div[2]/div[2]/p[1]/a[1]	ରାଷ୍ଟ୍ରୀୟ ସୂଚନା ବିଜ୍ଞାନ କେନ୍ଦ୍ର
+/html/body/footer/div/div[2]/div[2]/p[1]/a[2]	ଇଲେକ୍ଟ୍ରୋନିକ୍ସ ଏବଂ ସୂଚନା ପ୍ରଦ୍ୟୋଗିକ ମନ୍ତ୍ରାଳୟ
+/html/body/footer/div/div[2]/div[2]/p[2]	ଆଦ୍ୟୋତନ କରାଯାଇଥିବା ଶେଷ ତାରିଖ:

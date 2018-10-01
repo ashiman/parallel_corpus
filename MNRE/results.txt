@@ -1,0 +1,38 @@
+ENGLISH	NMT	HINDI	SCORE
+Select the elements you do not want to see on this pageSaveCancel	ପେଜ୍ସେଭ୍କୈନ୍ସଲ ରେ ଆପଣ ଦେଖିବାକୁ ଚାହୁଁଥିବା ଉପାଦାନଗୁଡିକ ଚୟନ କରନ୍ତୁ	ଅନୁଗୋଳ ଜିଲ୍ଲା ରେ ଥିବା କୋର୍ଟ ସମୂହ	0.14433756729740646
+ଓଡିଶା ସରକାର	ଓଡ଼ିଶା ସରକାର	ଓଡିଶା ସରକାର	0.4999999999999999
+About District	ଜିଲ୍ଲା ବିଷୟରେ	ଜିଲ୍ଲା ସମ୍ବନ୍ଧରେ	0.4999999999999999
+History	ଇତିହାସ	ଇତିହାସ	1.0
+Public Representatives	ସର୍ବସାଧାରଣ ପ୍ରତିନିଧି	ଜନ ପ୍ରତିନିଧି	0.4999999999999999
+District at a Glance	ଏକ ଆଖିରେ ଜିଲ୍ଲା	ଜିଲ୍ଲା ସମ୍ବନ୍ଧରେ	0.40824829046386296
+District Collectorate	ଜିଲ୍ଲା କୋଲେକଟୋରୈଟ	ଜିଲ୍ଲା ସମ୍ବନ୍ଧରେ	0.4999999999999999
+Sub-Division & Blocks	sub - ବିଭାଗ & ଅବରୋଧ	ନିକଟତମ  ବିମାନ ବନ୍ଦର - ଭୁବେନେଶ୍ଵର ବିମାନ ବନ୍ଦର	0.12909944487358055
+Villages & Gram Panchayats	ଗ୍ରାମ ଏବଂ ପଞ୍ଚାୟତି	ଗ୍ରାମ ଓ ପଞ୍ଚାୟତ	0.33333333333333337
+List of Police Station	ପୋଲିସ୍‌ ଷ୍ଟେସନ୍‌ର ତାଲିକା	ଇ-ମେଲ ତାଲିକା	0.40824829046386296
+List of Courts	ନ୍ୟାୟାଳୟର ତାଲିକା	ଇ-ମେଲ ତାଲିକା	0.4999999999999999
+Constituencies	ବିଭାଗ	ବିଭାଗ	1.0
+STD & PIN Codes	ଏସ୍. ଟି. ଡି & ପିନ୍ କୋଡ୍	ଏସଟିଡି ଏବଂ ପିନ୍ କୋଡ୍	0.4082482904638631
+Banks	ବ୍ୟାଙ୍କ	ବ୍ୟାଙ୍କ	1.0
+Press & Media	ପ୍ରେସ୍‍ ଓ ମିଡିଆ	ମିଡିଆ ଗ୍ୟାଲେରୀ	0.40824829046386296
+Website Directory	ୱେବସାଇଟ୍ ଡିରେକ୍ଟୋରୀ	ୱେବସାଇଟ୍ ନୀତି	0.4999999999999999
+Department	ବିଭାଗ	ବିଭାଗ	1.0
+DISTRICT RURAL DEVELOPMENT AGENCY (DRDA)	ଜିଲ୍ଲା ଗ୍ରାମୀଣ ଏଜେନ୍ସି ( ଡୀ.ଆର.ଡୀ.ଏ. )	ଜିଲ୍ଲା ଗ୍ରାମ୍ୟ ଉନ୍ନୟନ ସଂସ୍ଥା	0.20412414523193154
+AGRICULTURE	କୃଷି	କୃଷି	1.0
+DISTRICT PLANNING AND MONITORING UNIT	ଜିଲ୍ଲା ଯୋଜନା ଏବଂ ୟୁନିଟ୍‌ ମନିଟର୍‌ କରନ୍ତୁ	ଜିଲ୍ଲା ଯୋଜନା ଓ ପର୍ଯ୍ୟବେକ୍ଷଣ କାର୍ଯ୍ୟାଳୟ	0.3651483716701107
+Tourist Places	ସାଙ୍ଗୀତିକ ସ୍ଥାନ	ପସନ୍ଦ ସ୍ଥାନ	0.4999999999999999
+Plan Report	ଯୋଜନା ରିପୋର୍ଟ୍	ଯୋଜନା ବିବରଣୀ	0.4999999999999999
+Others	ଅନ୍ୟାନ୍ୟ	ଅନ୍ୟାନ୍ୟ	1.0
+More	ଅଧିକ	ଅଧିକ	1.0
+Media Gallery	ମିଡିଆ ଗ୍ୟାଲେରୀ	ମିଡିଆ ଗ୍ୟାଲେରୀ	0.9999999999999998
+Photo Gallery	ଫଟୋ ଗ୍ୟାଲେରୀ	ଫଟୋ ଗାଲେରୀ	0.4999999999999999
+Close	ବନ୍ଦ କରନ୍ତୁ	ବନ୍ଦ କରନ୍ତୁ	0.9999999999999998
+Share	ସେୟାର କରନ୍ତୁ	ବନ୍ଦ କରନ୍ତୁ	0.4999999999999999
+The holy place (peetha) of the Goddess Hingula is situated on the bank of the river Simhada in the West of erstwhile Talcher Estate (Now in the District of Angul). In Assam, there is a place of pilgrimage named Jwalamukhi where a similar goddess Hingula or Hingulei or Hingulaksi is being worshipped. It is for this reason that the presiding deity of Talcher in village Gopal Prasad who bears the form of fire is named Goddess Hingula. Such holy places (peethas) of Hingula are also situated even outside India in Karachi and Kabul. Both Hindus and Muslims worship at this holy place which is unique in nature.	ଡ଼ିମିରି ସ୍ଥାନ ( %1s ) ରବରାଈ %2s ପି. ଓ. ଆର. ବୀ. %3s ର ଗୁଣମାନ ଅଟେ ( ବର୍ତ୍ତମାନ %5s ର ଜିଲ୍ଲା ) ଆସାମୀରେ, ଯ୍ୱାଲାମୁଖୀ নামে ଏକ ଅଞ୍ଚଳ, যেখানে ଏକ ସମାନ ବନୀ ହିଂଗୁଳ କିମ୍ବା ହିଙ୍ଗୁଲେ କିମ୍ୱା ହିଙ୍ଗୁଲକସୀ କଲର ଏକ ସମାନ ହେବ। ଏହା ଏଥିପାଇଁ କାରଣ ଅଟେ ଯେ ପ୍ରୋଭିଶନାଲ ତଲଚେର ଇନସ୍ୟୁରାନ୍ସ, ତଲଚେର ଟି. ଏମ୍‌. ଏସ୍‌. ଆଇ. ଡି. ଏ., যে ଅଫ୍‌ ଷ୍ଟ୍ରିକ୍ଟ ହେଉଛି ହିଂଗୁଳ. ଏହି ଅସମାନ ଗଠନ ( ପିଠାସ ) ର ହିଂଗୁଳ ଟି ମୂଳସ୍ଥାନ ଇ. ଦି ବୀ. ଆଈ. ସୀ. ଓ. ଆର. ବି. ଇ. ନଗର ର ଅନ୍ତର୍ଗତରେ ଅଟେ| ଏହି ପ୍ରିନସିପଲ ଏବଂ ଇନଟେସ୍ଟ ର ଉଭୟ ଓଡ଼ିଶାର ରସଗୋଲା countries।	ହିଙ୍ଗୁଳ। ଠାକୁରାଣୀଙ୍କର ଏହି ପବିତ୍ର ପୀଠ । ଶିମଡା ନଦୀର ତଟରେ ଏବଂ ତାଳଚେରର ପଶ୍ଚିମରେ ଅନୁଗୋଳ ଜିଲ୍ଲାରେ ଅବସ୍ତିତ । ଆସାମର ଜ୍ଵ।ଳାମୁଖୀ ନାମରେ ଏକ ତୀର୍ଥାସ୍ଥାନ ଅଛି । ଯେଉଁଠାରେ ଦେବୀ ହିଙ୍ଗୁଳ।, ହିଙ୍ଗୁଳେଈ ବା ହିଙ୍ଗୁଳାକ୍ଷୀ ନାମରେ ପୂଜା ପାଉଅଛି । ସେଥିପାଇଁ ତାଳଚେରର ଗୋପାଳପ୍ରସାଦ ଗ୍ରାମରେ ପୂଜା ପାଉଥିବା ଦେବୀଙ୍କର ନାମ ହିଙ୍ଗୁଳ। ଯାହା ଅଗ୍ନିର ଅନ୍ୟନ।ମ ଅଟେ । ଭ।ରତ ବାହାରେ କରାଚି ଓ କାବୁଲ ଠାରେ  ମଧ୍ୟ ଦେବୀ ହିଙ୍ଗୁଳ।ଙ୍କର ପୀଠ ମାନ ଅଛି । ଖୋର୍ଦ୍ଧାର ଖାଇପଦର ଭଳି ଏଠାରେ ମଧ୍ୟ ଦେବୀ ଉଭୟ ହିନ୍ଦୁ ଓ ମୁସଲମାନ ଙ୍କ ଦ୍ଵାରା ପୂଜା ପାଆନ୍ତି ।	0.06185895741317419
+Nearest Airport is Biju Patnaik Airport, Bhubaneswar. Distance is around 180 Kms.	ନିକଟତମ କର୍ପୋରେଟ୍‌ ବିଯୁ ପଟନାୟକ ଏୟାର୍‌ପ୍ଲେନ୍, ଭୂବନ। ଦୂରତା 180 କିଲୋମିଟରରେ ଅଛି|	ନିକଟତମ  ବିମାନ ବନ୍ଦର - ଭୁବେନେଶ୍ଵର ବିମାନ ବନ୍ଦର	0.09128709291752768
+Angul and Talcher are the nearest railway Stations which are about 23 and 30 KMs respectively	ଅଙ୍ଗୁଲ ଏବଂ ତଲଚେର ହେଉଛି ବର୍ତ୍ତମାନର ରେଲୱେ ଷ୍ଟେସନ, ଯାହା 23 ଏବଂ 30 কিমি ମଧ୍ୟରେ ରହିବ	© ଅନୁଗୋଳ , ରାଷ୍ଟ୍ରୀୟ ସୂଚନା ବିଜ୍ଞାନ କେନ୍ଦ୍ର,ଇଲେକ୍ଟ୍ରୋନିକ୍ସ ଏବଂ ସୂଚନା ପ୍ରଦ୍ୟୋଗିକ ମନ୍ତ୍ରାଳୟ, ଭାରତ ସରକାର ଦ୍ୱାରା ବିକଶିତ ଓ ସଂସ୍ଥାପିତ	0.11470786693528087
+& Angul which is about 30 & 23 KMs respectively.	& ଅଙ୍ଗୁଲ ଯାହା 30 ଏବଂ 23 কিমি ମଧ୍ୟରେ ରହିବ।	ପୌରପାଳିକା ଏବଂ ବିଜ୍ଞାପିତ ଅଂଚଳ ପରିଷଦ	0.14907119849998599
+One can stay at Angul and Talcher where many Hotels/Guest Houses are available,	ଏକ ଅଙ୍ଗୁଲ ଏବଂ ତଲଚେରରେ ଅଧିକ ହୋଟେଲ / ଅତିଥି ଘରଗୁଡିକ ଉପଲବ୍ଧ ଥିବା ଆବଶ୍ୟକ,	ଅନୁଗୋଳ/ତାଳଚେର ରେ ରହିବା ପାଇଁ  ବିଭିନ୍ନ ବର୍ଗ ର ହୋଟେଲ, ଧର୍ମଶାଳା ଉପଲବ୍ଧ ଅଛି	0.08333333333333334
+Contact Us	ଆମକୁ ସମ୍ପର୍କ କରନ୍ତୁ	ଆମକୁ ସମ୍ପର୍କ କରନ୍ତୁ	1.0000000000000002
+Content Owned by District Administration	ଜିଲ୍ଲା ପ୍ରଶାସନ ଦ୍ବାରା ବିଷୟବସ୍ତୁ ଶୁଳ୍କ	ଜିଲ୍ଲା ସମ୍ବନ୍ଧୀୟ ଦୃଷ୍ଟିପାତ	0.2581988897471611
+© Angul , Developed and hosted by National Informatics Centre ,Ministry of Electronics & Information Technology, Government of India	© ଭାରତ ସରକାର	ଓଡିଶା ସରକାର	0.40824829046386296
+Last Updated: Jul 17, 2018	ଶେଷ ଅପଡେଟ୍ ହୋଇଛି: ଜୁମ୍ 17, 2018	ଆଦ୍ୟୋତନ କରାଯାଇଥିବା ଶେଷ ତାରିଖ: Jul 17, 2018	0.4629100498862757

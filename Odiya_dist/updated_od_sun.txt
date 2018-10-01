@@ -1,0 +1,26 @@
+/html/head/title	Goddess Hingula | Angul District : Odisha
+/html/body/header/div[1]/div/div[2]/div/ul/li[1]	SKIP TO MAIN CONTENT
+/html/body/header/div[1]/div/div[2]/div/ul/li[1]/a	SKIP TO MAIN CONTENT
+/html/body/header/div[1]/div/div[2]/div/ul/li[1]/a/b	SKIP TO MAIN CONTENT
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[4]	District at a Glance
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[4]/a	District at a Glance
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[5]	Villages & Gram Panchayats
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[5]/a	Villages & Gram Panchayats
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[6]	List of Police Station
+/html/body/header/div[3]/div[2]/nav/ul/li[2]/ul/li[6]/ul/li[6]/a	List of Police Station
+/html/body/header/div[3]/div[2]/nav/ul/li[3]/ul/li[2]	STD & PIN Codes
+/html/body/header/div[3]/div[2]/nav/ul/li[3]/ul/li[2]/a	STD & PIN Codes
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[1]	DISTRICT RURAL DEVELOPMENT AGENCY (DRDA)
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[1]/a	DISTRICT RURAL DEVELOPMENT AGENCY (DRDA)
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[5]	DISTRICT PLANNING AND MONITORING UNIT
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[5]/a	DISTRICT PLANNING AND MONITORING UNIT
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[6]	Roads & Buildings Division
+/html/body/header/div[3]/div[2]/nav/ul/li[4]/ul/li[6]/a	Roads & Buildings Division
+/html/body/section/div/div[3]/div/div[2]/p	The holy place (peetha) of the Goddess Hingula is situated on the bank of the river Simhada in the West of erstwhile Talcher Estate (Now in the District of Angul). In Assam, there is a place of pilgrimage named Jwalamukhi where a similar goddess Hingula or Hingulei or Hingulaksi is being worshipped. It is for this reason that the presiding deity of Talcher in village Gopal Prasad who bears the form of fire is named Goddess Hingula. Such holy places (peethas) of Hingula are also situated even outside India in Karachi and Kabul. Both Hindus and Muslims worship at this holy place which is unique in nature.
+/html/body/section/div/div[3]/div/div[3]/div[2]/div[2]/p	Nearest Airport is Biju Patnaik Airport, Bhubaneswar. Distance is around 180 Kms.
+/html/body/section/div/div[3]/div/div[3]/div[3]/div[2]/p	Angul and Talcher are the nearest railway Stations which are about 23 and 30 KMs respectively
+/html/body/section/div/div[3]/div/div[3]/div[4]/div[2]/p	There is regular bus/auto service to Hingula Pitha, Gopal Prasad from Talcher  & Angul which is about 30 & 23 KMs respectively.
+/html/body/section/div/div[3]/div/div[3]/div[5]/div[2]/p	One can stay at Angul and Talcher where many Hotels/Guest Houses are available,
+/html/body/footer/div/div[2]/div[1]	Content Owned by District Administration
+/html/body/footer/div/div[2]/div[2]/p[1]	© Angul , Developed and hosted by
+/html/body/footer/div/div[2]/div[2]/p[1]/a[2]	Ministry of Electronics & Information Technology
